@@ -7,9 +7,8 @@ Projenin amacı, normal resim dosyalarından *(jpg, png, jpeg, vb...)* **ASCII**
 ## Projenin Kullanımı
 
 1) Projeyi indirin, zip dosyasından çıkartıp boş bir yere koyun.
-
 2) İnput klasörüne istediğiniz görseli yükleyin *(tercihen uzantısı ".jpg" olan bir dosya)*.
-
 3) **"ascii_art_script.py"** kodunu çalıştırın.
-
 4) Sonuç **"output"** klasöründe yer alacaktır.
+
+## **Youtube kanalım = [İlyas Zan](https://www.youtube.com/channel/UCU523-Bad1KwgNW57o5R6Aw)**
